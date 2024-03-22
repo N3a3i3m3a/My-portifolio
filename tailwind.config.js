@@ -19,3 +19,5 @@ module.exports = {
   },
   plugins: [],
 }
+/*<p id="typing-text" class="inline-block text-lg font-bol overflow-hidden whitespace-nowrap ">
+            </p>*/
